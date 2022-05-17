@@ -36,16 +36,16 @@
         "name": "Dez Alimentos - Matriz - L2"
   },
   {
-        "key": "CO",
-        "latitude": 39.0646,
-        "longitude": -105.3272,
-        "name": "Colorado"
+        "key": "MP1",
+        "latitude": -16.785516152341,
+        "longitude": -49.255311627774,
+        "name": "Multicanal Primario - Matriz - L1"
   },
   {
-        "key": "CT",
-        "latitude": 41.5834,
-        "longitude": -72.7622,
-        "name": "Connecticut"
+        "key": "MP2",
+        "latitude": -16.785516152341,
+        "longitude": -49.255311627774,
+        "name": "Multicanal Primario - Matriz - L2"
   },
   {
         "key": "DC",
