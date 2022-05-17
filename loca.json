@@ -60,22 +60,22 @@
         "name": "Vera Cruz - Matriz - L2"
   },
   {
-        "key": "FL",
-        "latitude": 27.8333,
-        "longitude": -81.7170,
-        "name": "Florida"
+        "key": "SA1",
+        "latitude": -16.705117427512,
+        "longitude": -49.240930456876,
+        "name": "Sousa Andrade - Matriz - L1"
   },
   {
-        "key": "GA",
-        "latitude": 32.9866,
-        "longitude": -83.6487,
-        "name": "Georgia"
+        "key": "SA2",
+        "latitude": -16.705117427512,
+        "longitude": -49.240930456876,
+        "name": "Sousa Andrade - Matriz - L2"
   },
   {
-        "key": "HI",
-        "latitude": 21.1098,
-        "longitude": -157.5311,
-        "name": "Hawaii"
+        "key": "SA3",
+        "latitude": -16.705117427512,
+        "longitude": -49.240930456876,
+        "name": "Sousa Andrade - Matriz - L3"
   },
   {
         "key": "IA",
