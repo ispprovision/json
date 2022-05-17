@@ -114,16 +114,16 @@
         "name": "Remo Incorporadora - Matriz - L2"
   },
   {
-        "key": "MA",
-        "latitude": 42.2373,
-        "longitude": -71.5314,
-        "name": "Massachusetts"
+        "key": "VC1",
+        "latitude": -16.679187245834,
+        "longitude": -49.295683959059,
+        "name": "Vancelio Contabilidade - Matriz - L1"
   },
   {
-        "key": "MD",
-        "latitude": 39.0724,
-        "longitude": -76.7902,
-        "name": "Maryland"
+        "key": "VC2",
+        "latitude": -16.679187245834,
+        "longitude": -49.295683959059,
+        "name": "Vancelio Contabilidade - Matriz - L2"
   },
   {
         "key": "ME",
