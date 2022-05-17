@@ -78,34 +78,28 @@
         "name": "Sousa Andrade - Matriz - L3"
   },
   {
-        "key": "IA",
-        "latitude": 42.0046,
-        "longitude": -93.2140,
-        "name": "Iowa"
+        "key": "SD1",
+        "latitude": -16.704118387891,
+        "longitude": -49.232635577093,
+        "name": "Tv Serra Dourada - Matriz - L1"
   },
   {
-        "key": "ID",
-        "latitude": 44.2394,
-        "longitude": -114.5103,
-        "name": "Idaho"
+        "key": "SD2",
+        "latitude": -16.704118387891,
+        "longitude": -49.232635577093,
+        "name": "Tv Serra Dourada - Matriz - L2"
   },
   {
-        "key": "IL",
-        "latitude": 40.3363,
-        "longitude": -89.0022,
-        "name": "Illinois"
+        "key": "SM1",
+        "latitude": -16.704118387891,
+        "longitude": -49.232635577093,
+        "name": "Tv Serra Dourada - Mendanha - L1"
   },
   {
-        "key": "IN",
-        "latitude": 39.8647,
-        "longitude": -86.2604,
-        "name": "Indiana"
-  },
-  {
-        "key": "KS",
-        "latitude": 38.5111,
-        "longitude": -96.8005,
-        "name": "Kansas"
+        "key": "SM2",
+        "latitude": -16.704118387891,
+        "longitude": -49.232635577093,
+        "name": "Tv Serra Dourada - Mendanha - L2"
   },
   {
         "key": "KY",
