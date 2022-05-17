@@ -138,16 +138,16 @@
         "name": "Unialfa - Perimental - L1"
   },
   {
-        "key": "MN",
-        "latitude": 45.7326,
-        "longitude": -93.9196,
-        "name": "Minnesota"
+        "key": "RS1",
+        "latitude": -16.698301511892,
+        "longitude": -49.257562170367,
+        "name": "Rancho Solucoes - L1"
   },
   {
-        "key": "MO",
-        "latitude": 38.4623,
-        "longitude": -92.3020,
-        "name": "Missouri"
+        "key": "RS2",
+        "latitude": -16.698301511892,
+        "longitude": -49.257562170367,
+        "name": "Rancho Solucoes - L2"
   },
   {
         "key": "MP",
