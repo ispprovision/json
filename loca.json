@@ -48,16 +48,16 @@
         "name": "Multicanal Primario - Matriz - L2"
   },
   {
-        "key": "DC",
-        "latitude": 38.8964,
-        "longitude": -77.0262,
-        "name": "Washington DC"
+        "key": "VER",
+        "latitude": -16.703781864775,
+        "longitude": -49.24252606952,
+        "name": "Vera Cruz - Matriz - L1"
   },
   {
-        "key": "DE",
-        "latitude": 39.3498,
-        "longitude": -75.5148,
-        "name": "Delaware"
+        "key": "VE2",
+        "latitude": -16.703781864775,
+        "longitude": -49.24252606952,
+        "name": "Vera Cruz - Matriz - L2"
   },
   {
         "key": "FL",
